@@ -1,0 +1,4 @@
+.col:last-child {
+    border-left: 1px solid black; /* Voeg een rechterrand toe aan de kolom */
+    padding-left: 15px; /* Voeg wat ruimte toe aan de rechterkant van de kolom voor esthetiek */
+}
